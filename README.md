@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## My name is Hythan (sounds like Ethan) i'm from Brasil and i am a Magento 1 (Openmage) developer, studying System for Internet in the federal university of Paraná.
 
 ## Technologies that I know (or I'm studying):
