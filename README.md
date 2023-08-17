@@ -8,7 +8,6 @@
 <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.png" width=80 height=28>
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-<img src="https://i.stack.imgur.com/kyKz5.png" width=80 height=28>
 
 ### My social medias:
 <div>
