@@ -1,5 +1,5 @@
 # Hi there 👋
-### My name is Hythan (sounds like Ethan) i'm from Brasil and i am a Front-end developer working with Vtex IO, graduated in System for Internet in the Federal University of Paraná.
+### My name is Hythan (sounds like Ethan) i'm from Brazil and i am a Front-end developer working with Vtex IO, graduated in System for Internet in the Federal University of Paraná.
 
 ### Technologies that I know (or I'm studying):
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
