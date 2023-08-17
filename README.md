@@ -1,5 +1,5 @@
 # Hi there 👋
-### My name is Hythan (sounds like Ethan) i'm from Brasil and i am a Magento 1 (Openmage) developer, studying System for Internet in the federal university of Paraná.
+### My name is Hythan (sounds like Ethan) i'm from Brasil and i am a Front-end developer working with Vtex IO, graduated in System for Internet in the Federal University of Paraná.
 
 ### Technologies that I know (or I'm studying):
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -8,6 +8,7 @@
 <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.png" width=80 height=28>
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
 ### My social medias:
 <div>
   <a href="https://linkedin.com/in/hythan-correia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
